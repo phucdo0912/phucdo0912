@@ -1,10 +1,12 @@
 # 📈 ĐỖ HỒNG PHÚC  
 
-### Investment Economics - UEH
+### Investment Economics - School of Economics, Ho Chi Minh city
 
-![mô tả_ảnh_động](https://media.giphy.com/media/shasVpcemKcqYABNxQ/giphy.gif)
+My name is Do Hong Phuc, a 19-year-old student currently pursuing my studies at the University of Economics Ho Chi Minh City (UEH). My key interests lie in the fields of finance and investment. I am actively developing my Python skills to undertake data analysis projects within the domain of economics. This GitHub account serves as a repository for my exercises and notes, and I welcome any constructive feedback.
 
-## 🌐 Socials:
+![mô tả_ảnh_động](https://media.giphy.com/media/shasVpcemKcqYABNxQ/giphy.gif) ![mô tả_ảnh_động](https://media.giphy.com/media/K1j17lHjijSYK2jQWi/giphy.gif) ![mô tả_ảnh_động](https://media.giphy.com/media/4rJGmPfCff73ZWWclh/giphy.gif)
+
+## 🌐 Social media:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/miennui.luon/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%C4%91%E1%BB%97-h%E1%BB%93ng-ph%C3%BAc-714630287/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@MinuteHolding) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phucdo.31231025123@st.ueh.edu.vn) 
 
 # 💻 Tech Skills:
