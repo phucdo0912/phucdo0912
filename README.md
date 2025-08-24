@@ -1,7 +1,8 @@
-# Đỗ Hồng Phúc - Investment Economics - UEH
+# 📈 ĐỖ HỒNG PHÚC  
 
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/fdb3e16f-10b6-488b-8452-dcb37ad825ff" />
+### Investment Economics - UEH
 
+![mô tả_ảnh_động](https://media.giphy.com/media/shasVpcemKcqYABNxQ/giphy.gif)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/miennui.luon/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%C4%91%E1%BB%97-h%E1%BB%93ng-ph%C3%BAc-714630287/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@MinuteHolding) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phucdo.31231025123@st.ueh.edu.vn) 
